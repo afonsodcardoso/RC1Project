@@ -10,7 +10,7 @@
     "scene_height": 1000,
     "scene_width": 2000,
     "show_grid": false,
-    "show_interface_labels": false,
+    "show_interface_labels": true,
     "show_layers": false,
     "snap_to_grid": false,
     "supplier": null,
@@ -1526,6 +1526,6 @@
     },
     "type": "topology",
     "variables": null,
-    "version": "2.2.31",
+    "version": "2.2.34",
     "zoom": 100
 }
