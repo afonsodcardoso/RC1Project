@@ -1,9 +1,3 @@
-# This the configuration for MarketingPublic
-#
-# Uncomment the following line to enable DHCP
-# dhcp
-# or the line below to manually setup an IP address and subnet mask
-# ip 192.168.1.1 255.0.0.0
-#
-
-set pcname MarketingPublic
+set pcname VPCS
+ip 198.149.147.130 198.149.147.129 26
+ip 2abc:8649:0:2::3/64
