@@ -21,180 +21,189 @@
                 "drawing_id": "28bc0ab0-93f2-4fed-a74f-f78c8a15cf10",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.3.1/24\nIPv6: 2ABC:8649:0:2::2/64</text></svg>",
-                "x": -981,
-                "y": -95,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.3.1/24\nIPv6: 2ABC:8649:0:2::2/64</text></svg>",
+                "x": -1100,
+                "y": -164,
                 "z": 2
             },
             {
                 "drawing_id": "ed233dee-acd6-44dc-b8f1-35d00f5aee6b",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.130/26\nIPv6: 2ABC:8649:0:2::3/64</text></svg>",
-                "x": -978,
-                "y": 85,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.130/26\nIPv6: 2ABC:8649:0:2::3/64</text></svg>",
+                "x": -1101,
+                "y": 106,
                 "z": 2
             },
             {
                 "drawing_id": "19660c33-ac5b-4b0f-93fc-3c3a6c24f0b3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\nIPv6: 2ABC:8649:0:1::2/64</text></svg>",
-                "x": -590,
-                "y": 342,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\nIPv6: 2ABC:8649:0:1::2/64</text></svg>",
+                "x": -656,
+                "y": 355,
                 "z": 2
             },
             {
                 "drawing_id": "a62bc7da-219c-43e0-83a5-60665b5ec4d1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.66/26\nIPv6: 2ABC:8649:0:1::3/64</text></svg>",
-                "x": -326,
-                "y": 345,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.66/26\nIPv6: 2ABC:8649:0:1::3/64</text></svg>",
+                "x": -284,
+                "y": 364,
                 "z": 2
             },
             {
                 "drawing_id": "547a205b-d9f0-4684-acc7-ab6353be4c09",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"159\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.1.1/24\nIPv6: 2ABC:8649::2/64</text></svg>",
-                "x": -613,
-                "y": -369,
+                "svg": "<svg height=\"50\" width=\"210\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.1.1/24\nIPv6: 2ABC:8649::2/64</text></svg>",
+                "x": -633,
+                "y": -414,
                 "z": 2
             },
             {
                 "drawing_id": "941ff5db-b592-4ac1-9814-3a5d8aa37787",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"162\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.2/26\nIPv6: 2ABC:8649::3/64</text></svg>",
-                "x": -293,
-                "y": -369,
+                "svg": "<svg height=\"50\" width=\"216\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.2/26\nIPv6: 2ABC:8649::3/64</text></svg>",
+                "x": -313,
+                "y": -414,
                 "z": 2
             },
             {
                 "drawing_id": "9908753e-7f60-427e-9f6b-13b9c5e69ead",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.4.1/24\nIPv6: 2ABC:8649:0:3::2/64</text></svg>",
-                "x": 88,
-                "y": -460,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.4.1/24\nIPv6: 2ABC:8649:0:3::2/64</text></svg>",
+                "x": 3,
+                "y": -413,
                 "z": 2
             },
             {
                 "drawing_id": "f158fb1e-6b42-4494-abc4-a7d8e7d11eb1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
-                "x": 350,
-                "y": -461,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
+                "x": 421,
+                "y": -411,
                 "z": 2
             },
             {
                 "drawing_id": "3bb005f6-36ac-4ae0-a951-70affe1f79e7",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.5.1/24\nIPv6: 2ABC:8649:0:4::2/64</text></svg>",
-                "x": 24,
-                "y": 337,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.5.1/24\nIPv6: 2ABC:8649:0:4::2/64</text></svg>",
+                "x": 81,
+                "y": 333,
                 "z": 2
             },
             {
                 "drawing_id": "50104821-226c-4f29-a525-e456b8785ccd",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.226/28\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
-                "x": 350,
-                "y": 341,
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.226/28\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
+                "x": 406,
+                "y": 336,
                 "z": 2
             },
             {
                 "drawing_id": "6681001b-d275-410a-a390-0449c225d352",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"46\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4:\nIPv6: </text></svg>",
-                "x": 618,
-                "y": 309,
+                "svg": "<svg height=\"50\" width=\"298\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 120.100.20.1/24\nIPv6: 2312:100:A199:AAEE::2/64</text></svg>",
+                "x": 811,
+                "y": 298,
                 "z": 2
             },
             {
                 "drawing_id": "089e1aa0-878d-4537-8f20-7d527e0a3820",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"56\" width=\"205\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.1/26\nIPv4 Private: 172.28.1.254/24\nIPv6: 2ABC:8649::1/64</text></svg>",
-                "x": -369,
-                "y": -174,
+                "svg": "<svg height=\"71\" width=\"273\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.1/26\nIPv4 Private: 172.28.1.254/24\nIPv6: 2ABC:8649::1/64</text></svg>",
+                "x": -371,
+                "y": -213,
                 "z": 2
             },
             {
                 "drawing_id": "91a6cc26-4dc3-4c56-8e81-d482f87839c1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"56\" width=\"211\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.65/26\nIPv4 Private: 172.28.2.254/24\nIPv6: 2ABC:8649:0:1::1/64</text></svg>",
+                "svg": "<svg height=\"71\" width=\"284\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.65/26\nIPv4 Private: 172.28.2.254/24\nIPv6: 2ABC:8649:0:1::1/64</text></svg>",
                 "x": -375,
-                "y": 19,
+                "y": 32,
                 "z": 2
             },
             {
                 "drawing_id": "9d84a4bb-1ebe-437c-96ce-a2f2858ea794",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"56\" width=\"219\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.129/26\nIPv4 Private: 172.28.3.254/24\nIPv6: 2ABC:8649:0:2::1/64</text></svg>",
-                "x": -637,
-                "y": -111,
+                "svg": "<svg height=\"71\" width=\"295\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.129/26\nIPv4 Private: 172.28.3.254/24\nIPv6: 2ABC:8649:0:2::1/64</text></svg>",
+                "x": -732,
+                "y": -121,
                 "z": 2
             },
             {
                 "drawing_id": "a1e2f0a5-d3fd-4501-a166-17abe7a3f8f8",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"189\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.1/30\nIPv6: 2ABC:8649:0:5::1/64</text></svg>",
-                "x": -262,
-                "y": -96,
+                "svg": "<svg height=\"50\" width=\"248\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.1/30\nIPv6: 2ABC:8649:0:5::1/64</text></svg>",
+                "x": -321,
+                "y": -100,
                 "z": 2
             },
             {
                 "drawing_id": "58aac70c-d603-4c49-8bf9-dad5a4ea70c3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"189\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.2/30\nIPv6: 2ABC:8649:0:5::2/64</text></svg>",
-                "x": 34,
-                "y": -94,
+                "svg": "<svg height=\"50\" width=\"248\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.2/30\nIPv6: 2ABC:8649:0:5::2/64</text></svg>",
+                "x": 51,
+                "y": -101,
                 "z": 2
             },
             {
                 "drawing_id": "da1e8851-ba0f-4556-99c4-6c8754059bd9",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 110.44.55.5/30\nIPv6: 2211:44:55:4::5/126</text></svg>",
-                "x": 344,
-                "y": -90,
+                "svg": "<svg height=\"50\" width=\"242\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 110.44.55.5/30\nIPv6: 2211:44:55:4::5/126</text></svg>",
+                "x": 387,
+                "y": -100,
                 "z": 2
             },
             {
                 "drawing_id": "882aeac2-93e6-481c-b3ee-94390db14aba",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"56\" width=\"219\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.255/27\nIPv4 Private: 172.28.4.254/24\nIPv6: 2ABC:8649:0:3::1/64</text></svg>",
-                "x": 280,
-                "y": -181,
+                "svg": "<svg height=\"71\" width=\"295\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.255/27\nIPv4 Private: 172.28.4.254/24\nIPv6: 2ABC:8649:0:3::1/64</text></svg>",
+                "x": 329,
+                "y": -224,
                 "z": 2
             },
             {
                 "drawing_id": "2a42d186-edd3-437b-98e0-10f30a1c36f4",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"56\" width=\"219\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.225/28\nIPv4 Private: 172.28.5.254/24\nIPv6: 2ABC:8649:0:4::1/64</text></svg>",
-                "x": 274,
-                "y": 41,
+                "svg": "<svg height=\"71\" width=\"295\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.225/28\nIPv4 Private: 172.28.5.254/24\nIPv6: 2ABC:8649:0:4::1/64</text></svg>",
+                "x": 327,
+                "y": -8,
                 "z": 2
             },
             {
                 "drawing_id": "e59d7359-1aed-449e-a6a8-30b43ef715ac",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"189\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.2/30\nIPv6: 2211:44:55:4::6/126</text></svg>",
-                "x": 625,
-                "y": -131,
+                "svg": "<svg height=\"50\" width=\"248\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.2/30\nIPv6: 2211:44:55:4::6/126</text></svg>",
+                "x": 669,
+                "y": -96,
+                "z": 2
+            },
+            {
+                "drawing_id": "e24ef1ba-78f4-4412-9a84-8141e8195f5f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"50\" width=\"298\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 120.100.20.254/24\nIPv6: 2312:100:A199:AAEE::1/64</text></svg>",
+                "x": 687,
+                "y": 11,
                 "z": 2
             }
         ],
@@ -210,8 +219,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 102,
-                            "y": -6
+                            "x": 82,
+                            "y": 22
                         },
                         "node_id": "79099735-4aad-4107-9e0e-5c7ae61c50d2",
                         "port_number": 0
@@ -254,8 +263,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": -40,
-                            "y": -16
+                            "x": -32,
+                            "y": -25
                         },
                         "node_id": "f0c4efb1-5ec6-496a-ab98-89f32a5191fe",
                         "port_number": 0
@@ -306,8 +315,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/1",
-                            "x": -5,
-                            "y": -71
+                            "x": -8,
+                            "y": -56
                         },
                         "node_id": "79099735-4aad-4107-9e0e-5c7ae61c50d2",
                         "port_number": 1
@@ -627,7 +636,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e1",
                             "x": -28,
-                            "y": -37
+                            "y": -20
                         },
                         "node_id": "4ee77606-064d-40da-9dcf-b1777a192690",
                         "port_number": 1
@@ -858,8 +867,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "R2",
-                    "x": 17,
-                    "y": -25
+                    "x": 43,
+                    "y": -27
                 },
                 "locked": false,
                 "name": "R2",
@@ -911,8 +920,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "323ca4ae-3bed-4da8-97a3-ac890b8b0a89",
                 "width": 66,
-                "x": 237,
-                "y": -69,
+                "x": 293,
+                "y": -72,
                 "z": 1
             },
             {
@@ -980,8 +989,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "323ca4ae-3bed-4da8-97a3-ac890b8b0a89",
                 "width": 66,
-                "x": 666,
-                "y": -64,
+                "x": 950,
+                "y": -71,
                 "z": 1
             },
             {
@@ -1009,8 +1018,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -497,
-                "y": -457,
+                "x": -516,
+                "y": -506,
                 "z": 1
             },
             {
@@ -1038,8 +1047,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -906,
-                "y": -167,
+                "x": -1025,
+                "y": -236,
                 "z": 1
             },
             {
@@ -1067,8 +1076,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -526,
-                "y": 273,
+                "x": -592,
+                "y": 286,
                 "z": 1
             },
             {
@@ -1083,8 +1092,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "DMZPrivate",
-                    "x": -21,
-                    "y": -25
+                    "x": -24,
+                    "y": -34
                 },
                 "locked": false,
                 "name": "DMZPrivate",
@@ -1096,8 +1105,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 109,
-                "y": -391,
+                "x": 174,
+                "y": -495,
                 "z": 1
             },
             {
@@ -1125,8 +1134,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 347,
-                "y": 263,
+                "x": 403,
+                "y": 258,
                 "z": 1
             },
             {
@@ -1154,8 +1163,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 662,
-                "y": 240,
+                "x": 950,
+                "y": 236,
                 "z": 1
             },
             {
@@ -1234,8 +1243,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -411,
-                "y": -267,
+                "x": -413,
+                "y": -301,
                 "z": 1
             },
             {
@@ -1263,8 +1272,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -306,
-                "y": -460,
+                "x": -326,
+                "y": -505,
                 "z": 1
             },
             {
@@ -1343,7 +1352,7 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -761,
+                "x": -846,
                 "y": -65,
                 "z": 1
             },
@@ -1423,8 +1432,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -419,
-                "y": 155,
+                "x": -414,
+                "y": 154,
                 "z": 1
             },
             {
@@ -1452,8 +1461,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -912,
-                "y": 17,
+                "x": -1022,
+                "y": 41,
                 "z": 1
             },
             {
@@ -1481,8 +1490,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -315,
-                "y": 274,
+                "x": -273,
+                "y": 293,
                 "z": 1
             },
             {
@@ -1561,8 +1570,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 235,
-                "y": -280,
+                "x": 291,
+                "y": -318,
                 "z": 1
             },
             {
@@ -1641,8 +1650,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 233,
-                "y": 163,
+                "x": 289,
+                "y": 158,
                 "z": 1
             },
             {
@@ -1657,8 +1666,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "DMZPublic",
-                    "x": -17,
-                    "y": -25
+                    "x": -20,
+                    "y": -34
                 },
                 "locked": false,
                 "name": "DMZPublic",
@@ -1670,8 +1679,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 365,
-                "y": -396,
+                "x": 427,
+                "y": -494,
                 "z": 1
             },
             {
@@ -1699,14 +1708,14 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 105,
-                "y": 263,
+                "x": 161,
+                "y": 258,
                 "z": 1
             }
         ]
     },
     "type": "topology",
     "variables": null,
-    "version": "2.2.34",
+    "version": "2.2.31",
     "zoom": 82
 }
