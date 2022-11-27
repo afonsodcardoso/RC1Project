@@ -121,8 +121,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"71\" width=\"273\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Public: 198.149.147.1/26\nIPv4 Private: 172.28.1.254/24\nIPv6: 2ABC:8649::1/64</text></svg>",
-                "x": -371,
-                "y": -213,
+                "x": -377,
+                "y": -227,
                 "z": 2
             },
             {
@@ -192,9 +192,9 @@
                 "drawing_id": "e59d7359-1aed-449e-a6a8-30b43ef715ac",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"50\" width=\"248\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4 Private: 172.28.6.2/30\nIPv6: 2211:44:55:4::6/126</text></svg>",
-                "x": 669,
-                "y": -96,
+                "svg": "<svg height=\"50\" width=\"242\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 110.44.55.6/30\nIPv6: 2211:44:55:4::6/126</text></svg>",
+                "x": 681,
+                "y": -98,
                 "z": 2
             },
             {
@@ -202,8 +202,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"50\" width=\"298\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 120.100.20.254/24\nIPv6: 2312:100:A199:AAEE::1/64</text></svg>",
-                "x": 687,
-                "y": 11,
+                "x": 685,
+                "y": 75,
                 "z": 2
             }
         ],
