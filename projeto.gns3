@@ -201,9 +201,9 @@
                 "drawing_id": "e24ef1ba-78f4-4412-9a84-8141e8195f5f",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"227\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 120.100.20.254/24\nIPv6: 2312:100:A199:AAEE::1/64</text></svg>",
-                "x": 732,
-                "y": 56,
+                "svg": "<svg height=\"50\" width=\"298\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 120.100.20.254/24\nIPv6: 2312:100:A199:AAEE::1/64</text></svg>",
+                "x": 988,
+                "y": 16,
                 "z": 2
             }
         ],
@@ -1716,6 +1716,6 @@
     },
     "type": "topology",
     "variables": null,
-    "version": "2.2.34",
+    "version": "2.2.31",
     "zoom": 69
 }
