@@ -84,7 +84,7 @@
                 "drawing_id": "f158fb1e-6b42-4494-abc4-a7d8e7d11eb1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:3::3/64</text></svg>",
                 "x": 627,
                 "y": -401,
                 "z": 2
@@ -2066,6 +2066,6 @@
     },
     "type": "topology",
     "variables": null,
-    "version": "2.2.34",
-    "zoom": 58
+    "version": "2.2.31",
+    "zoom": 69
 }
