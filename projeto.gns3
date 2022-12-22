@@ -21,7 +21,7 @@
                 "drawing_id": "28bc0ab0-93f2-4fed-a74f-f78c8a15cf10",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.3.1/24\nIPv6: 2ABC:8649:0:2::2/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.3.1/24\n</text></svg>",
                 "x": -1269,
                 "y": -187,
                 "z": 2
@@ -39,7 +39,7 @@
                 "drawing_id": "19660c33-ac5b-4b0f-93fc-3c3a6c24f0b3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\nIPv6: 2ABC:8649:0:1::2/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\n</text></svg>",
                 "x": -448,
                 "y": 434,
                 "z": 2
@@ -48,7 +48,7 @@
                 "drawing_id": "a62bc7da-219c-43e0-83a5-60665b5ec4d1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.66/26\nIPv6: 2ABC:8649:0:1::3/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.66/26\nIPv6: 2ABC:8649:0:1::3/64</text></svg>",
                 "x": -184,
                 "y": 362,
                 "z": 2
@@ -57,16 +57,16 @@
                 "drawing_id": "547a205b-d9f0-4684-acc7-ab6353be4c09",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"159\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.1.1/24\nIPv6: 2ABC:8649::2/64</text></svg>",
-                "x": -621,
-                "y": -565,
+                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.1.1/24\n</text></svg>",
+                "x": -596,
+                "y": -568,
                 "z": 2
             },
             {
                 "drawing_id": "941ff5db-b592-4ac1-9814-3a5d8aa37787",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"162\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.2/26\nIPv6: 2ABC:8649::3/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"216\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.2/26\nIPv6: 2ABC:8649::3/64</text></svg>",
                 "x": -197,
                 "y": -363,
                 "z": 2
@@ -75,16 +75,16 @@
                 "drawing_id": "9908753e-7f60-427e-9f6b-13b9c5e69ead",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.4.1/24\nIPv6: 2ABC:8649:0:3::2/64</text></svg>",
-                "x": 142,
-                "y": -581,
+                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.4.1/24\n</text></svg>",
+                "x": 198,
+                "y": -580,
                 "z": 2
             },
             {
                 "drawing_id": "f158fb1e-6b42-4494-abc4-a7d8e7d11eb1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:3::3/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.194/27\nIPv6: 2ABC:8649:0:3::3/64</text></svg>",
                 "x": 627,
                 "y": -401,
                 "z": 2
@@ -93,16 +93,16 @@
                 "drawing_id": "3bb005f6-36ac-4ae0-a951-70affe1f79e7",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.5.1/24\nIPv6: 2ABC:8649:0:4::2/64</text></svg>",
-                "x": 139,
-                "y": 344,
+                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.5.1/24\n</text></svg>",
+                "x": 138,
+                "y": 349,
                 "z": 2
             },
             {
                 "drawing_id": "50104821-226c-4f29-a525-e456b8785ccd",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"40\" width=\"185\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.226/28\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
+                "svg": "<svg height=\"50\" width=\"244\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 198.149.147.226/28\nIPv6: 2ABC:8649:0:4::3/64</text></svg>",
                 "x": 500,
                 "y": 339,
                 "z": 2
@@ -2067,5 +2067,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.34",
-    "zoom": 69
+    "zoom": 58
 }
