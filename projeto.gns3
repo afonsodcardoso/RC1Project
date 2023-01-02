@@ -39,9 +39,9 @@
                 "drawing_id": "19660c33-ac5b-4b0f-93fc-3c3a6c24f0b3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"50\" width=\"183\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\n</text></svg>",
-                "x": -448,
-                "y": 434,
+                "svg": "<svg height=\"40\" width=\"138\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">IPv4: 172.28.2.1/24\n</text></svg>",
+                "x": -436,
+                "y": 412,
                 "z": 2
             },
             {
@@ -1363,8 +1363,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -409,
-                "y": 361,
+                "x": -410,
+                "y": 341,
                 "z": 1
             },
             {
@@ -2155,12 +2155,12 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                    "text": "GNS_SERVER-1",
-                    "x": -19,
+                    "text": "MarketingPublic_Server",
+                    "x": -48,
                     "y": -25
                 },
                 "locked": false,
-                "name": "GNS_SERVER-1",
+                "name": "MarketingPublic_Server",
                 "node_id": "205f1ee3-6bd3-4618-9dd8-357bdfc3e194",
                 "node_type": "virtualbox",
                 "port_name_format": "Ethernet{0}",
@@ -2179,8 +2179,8 @@
                 "symbol": ":/symbols/vbox_guest.svg",
                 "template_id": "8d413d6e-4c40-4345-963c-e517902e3df5",
                 "width": 65,
-                "x": -846,
-                "y": 50,
+                "x": -841,
+                "y": 51,
                 "z": 1
             },
             {
@@ -2194,12 +2194,12 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                    "text": "GNS_CLIENT-1",
-                    "x": -15,
+                    "text": "DMZPublic_HOST",
+                    "x": -24,
                     "y": -25
                 },
                 "locked": false,
-                "name": "GNS_CLIENT-1",
+                "name": "DMZPublic_HOST",
                 "node_id": "b9b5cbc4-5843-4b87-a6e1-e17661210887",
                 "node_type": "virtualbox",
                 "port_name_format": "Ethernet{0}",
